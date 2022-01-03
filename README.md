@@ -26,3 +26,7 @@ To work through these topics, we'll use pandas, Matplotlib and NumPy for data an
 | Tools which can be used for each step of the machine learning modelling process. |
 
 We'll work through each step and by the end of the notebook, we'll have a trained machine learning model which predicts the sale price of a bulldozer given different characteristics about it.
+
+
+
+![image.png](https://hips.hearstapps.com/pop.h-cdn.co/assets/17/22/4000x2666/gallery-1496339400-2741739.jpg?resize=980:*)
